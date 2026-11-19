@@ -53,7 +53,7 @@ On 230 simulated fleets with ten seeds, MoPE lowered the cost-weighted error by 
 
 ```bibtex
 @unpublished{massaoudi_mope,
-  author = {Massaoudi, Mohamed and Ez Eddin, Maymouna},
+  author = {Massaoudi, Mohamed et al.},
   title  = {Learning to Route Probing Designs per Tenant under Noisy Verification Probes},
   note   = {Manuscript}
 }
